@@ -34,7 +34,7 @@ window.CRITTER_SITE = {
 - Original Pokémon Red adventure retained.
 - Two alternate visual sprite sets: Real and Hybrid.
 - Updated AnimaDex entries.
-- Renamed towns/places and PEETAH organization.
+- Renamed towns/places and organization.
 - Blind Battles: move names aren't announced when either side uses one.
 - AI-assisted move-name wording; no claim of a changed battle balance.
 - AI use disclosed for artwork and development.
