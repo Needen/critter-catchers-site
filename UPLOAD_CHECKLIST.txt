@@ -1,0 +1,12 @@
+CRITTER CATCHERS — PUBLISHING CHECKLIST
+
+[ ] Create public GitHub repository (suggestion: critter-catchers-site).
+[ ] Upload ALL extracted site files to repository root (index.html must be at the root).
+[ ] Settings > Pages > Deploy from a branch > main > /(root) > Save.
+[ ] Verify site on desktop and mobile.
+[ ] Upload legally appropriate .ips/.bps/.xdelta patches separately to GitHub Releases; do not upload a complete ROM.
+[ ] Edit site-config.js with your actual Real patch and Hybrid patch URL(s).
+[ ] Add Ko-fi OR Buy Me a Coffee creator page URL if desired; don't condition fan patch access on donations.
+[ ] Add issue tracker URL if desired.
+[ ] Replace promotional art with actual approved game sprites later if exact in-game assets are required.
+[ ] Check site text and AI disclosure against the release package before sharing.
