@@ -1,0 +1,45 @@
+# ROMs and emulator data
+*.[gG][bB]
+*.[gG][bB][cC]
+*.[sS][gG][bB]
+*.[gG][bB][aA]
+*.[sS][aA][vV]
+*.srm
+*.rtc
+*.state
+*.state[0-9]*
+*.ss[0-9]*
+/roms/
+/saves/
+/build/
+/dist/
+/scratch/
+
+# Local archives
+*.[zZ][iI][pP]
+*.7z
+*.rar
+*.tar
+*.tar.gz
+*.tgz
+
+# Credentials and local settings
+.env
+.env.*
+!.env.example
+.netrc
+.npmrc
+*.pem
+*.key
+*.pfx
+*.p12
+
+# OS and editor metadata
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+__MACOSX/
+.vscode/
+.idea/
+*.swp
